@@ -1,0 +1,15 @@
+
+TODO for Web App Mode
+=====================
+
+[ ] menu button not working if width<620px
+[ ] settings are too wide and do not resize in a responsive way (this probably needs a media query and more css)
+[ ] changelog is too wide and width is hardcoded (instad of 80% of page width or similar)
+
+DONE:
+=====
+
+[x] missing touchmove to js/grapher
+[x] missing touchmove to js/graph_spectrum
+[x] missing touchmove to js/seekbar
+[x] add appcache support
